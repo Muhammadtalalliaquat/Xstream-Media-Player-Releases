@@ -2,7 +2,7 @@
 
 Downloads for Xstream Media Player on macOS and Windows.
 
-**[Download the latest version](https://github.com/ManalLiaquat/Xstream-Media-Player-Releases/releases/latest)**, then choose your file from the **Assets** list at the bottom of the release.
+**[Download the latest version](https://github.com/Muhammadtalalliaquat/Xstream-Media-Player-Releases/releases/latest)**, then choose your file from the **Assets** list at the bottom of the release.
 
 | Your computer | Download this file |
 |---|---|
